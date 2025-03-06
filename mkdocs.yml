@@ -29,7 +29,7 @@ site_description: "Un proyecto sobre el diseño web, sus principios, herramienta
 site_author: "Héctor Martínez Juan"
 repo_url: "https://github.com/hecmaju/ProjecteHectorMartinez.git"
 nav:
-  - Inicio: index.md
+  - Home: index.md
   - Diseño Web: 
       - Usabilidad: usabilidad.md
       - Herramientas: herramientas.md
